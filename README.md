@@ -1,5 +1,5 @@
 # SoP
 
-write in french for the moment
+written in french for the moment
 
-# Project 1 : E-Xode
+    # Project 1 : E-Xode
